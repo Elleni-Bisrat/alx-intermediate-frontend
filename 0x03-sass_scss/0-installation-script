@@ -1,0 +1,5 @@
+Steps I used to install SASS:
+
+1. I already had Node.js installed.
+2. Ran the command: npm install sass -v 3.7.4
+3. Verified installation by running: npx sass --version
